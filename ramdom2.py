@@ -83,7 +83,7 @@ def space():
 number=int("+8801982745700")
 
 devoloper_info={
-    "Developer" :  'SA SIFATH&asif gaming ',
+    "Developer" :  'SA SIFATH & ASIF GAMING ',
     "Number" :  number,
     "Status" :  '24-ONLINE',
     "GitHub Url":  'https://github.com/sasifath12sa',
